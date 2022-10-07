@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.hair {
+  width: 100px;
+  height: 300px;
+  border-right: 1px solid black;
+  border-radius: 20px / 50%;
+  position: fixed;
+  top: 300px;
+  right: 500px;
+  transform: rotate(-20deg);
+}
+
+.maxsus {
+    font-size: 200px;
+    color: red;
+}
